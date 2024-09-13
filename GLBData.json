@@ -1,0 +1,54 @@
+{
+  "GLBFiles": {
+    "Bigben": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/BigbenCompressed.glb",
+      "starttime": -1
+    },
+    "Cityscape": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/CityScapeRemappedCompressed.glb",
+      "starttime": 0,
+	  "shouldMask":true,
+	  "maskRadius":300.0
+    },
+    "Closeup": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/CloseUpCompressed.glb",
+      "starttime": 0
+    },
+    "Coins": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/CoinsCompressed.glb",
+      "starttime": 3
+    },
+    "Devil": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/DevilCompressed.glb",
+      "starttime": 0
+    },
+    "LondonEye": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/LondonEyeCompressed.glb",
+      "starttime": 4
+    },
+    "OldTrafford": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/OldTraffordCompressed.glb",
+      "starttime": -1
+    },
+    "Trophy": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/TrophyCompressed.glb",
+      "starttime": -1
+    },
+	"Penguins": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/PenguinsCompressed.glb",
+      "starttime": 4
+    },
+	"Turtle": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/TurtleCompressed.glb",
+      "starttime": 11.8
+    },
+	"Shark": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/SharksCompressed.glb",
+      "starttime": 5.6
+    },
+	"Clownfish": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/ClownfishCompressed.glb",
+      "starttime": 2.35
+    }
+  }
+}
