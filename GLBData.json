@@ -1,4 +1,9 @@
 {
+  "Packs":{
+	"Sealife":["Clownfish","Shark","Turtle","Penguins"],
+	"Manchester":["Devil","Trophy","Coins","OldTrafford"],
+	"London":["Bigben","Cityscape","Closeup","LondonEye"]
+  },
   "GLBFiles": {
     "Bigben": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/BigbenCompressed.glb",
