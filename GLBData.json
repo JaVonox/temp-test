@@ -1,8 +1,28 @@
 {
   "Packs":{
-	"Sealife":["Clownfish","Shark","Turtle","Penguins"],
-	"Manchester":["Devil","Trophy","Coins","OldTrafford"],
-	"London":["Bigben","Cityscape","Closeup","LondonEye"]
+	"Sealife":{
+		"realname":"Sea Life",
+		"description":"Discover the beauty of the seas with this pack of four notes. Includes stunning models of green sea turtles, clown fish, blacktip reef sharks and gentoo penguins",
+		"shoplink":"https://www.nationalnotes.co.uk/shop/sealife",
+		"filecontents":["Clownfish","Shark","Turtle","Penguins"],
+		"majorversion":0,
+		"minorversion":1
+		},
+	"Manchester":{
+		"realname":"Manchester United Football Club",
+		"description":"Show your support to your favourite team with this pack of four notes.",
+		"shoplink":"https://www.nationalnotes.co.uk/shop/manchester-united-football-club",
+		"filecontents":["Devil","Trophy","Coins","OldTrafford"],
+		"majorversion":0,
+		"minorversion":1
+	},
+	"London":{
+		"realname":"Sights of London",
+		"description":"Explore the bustling london city from your own home with this pack of four notes.",
+		"filecontents":["Bigben","Cityscape","Closeup","LondonEye"],
+		"majorversion":0,
+		"minorversion":1
+	}
   },
   "GLBFiles": {
     "Bigben": {
