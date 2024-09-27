@@ -33,14 +33,21 @@
     "Cityscape": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/CityScapeRemappedCompressed.glb",
       "starttime": 0,
-	  "shouldMask":true,
-	  "maskRadius":300.0,
-	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Cityscape.jpg"]
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Cityscape.jpg"],
+	  "mask":
+	  {
+		"maskType":"sphere",
+		"maskRadius":300.0
+	  }
     },
     "Closeup": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/CloseUpCompressed.glb",
       "starttime": 0,
-	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Closeup.jpg"]
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Closeup.jpg"],
+	  "mask":
+	  {
+		"maskType":"plane"
+	  }
     },
     "Coins": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/CoinsCompressed.glb",
