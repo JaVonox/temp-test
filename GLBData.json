@@ -41,6 +41,7 @@
 	  "mask":
 	  {
 		"maskType":"sphere",
+		"scale":1.6,
 		"maskRadius":300.0
 	  },
 	  "transform":
@@ -55,6 +56,10 @@
 	  "mask":
 	  {
 		"maskType":"plane"
+	  },
+	  "transform":
+	  {
+		  "locationZ":150
 	  }
     },
     "Coins": {
