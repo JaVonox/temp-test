@@ -114,7 +114,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Penguins_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Penguins_1.jpg"],
 	  "transform":
 	  {
-		  "scale":7,
+		  "scale":0.1,
 		  "rotateZ":90
 	  }
     },
@@ -124,7 +124,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Turtle_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Turtle_1.jpg"],
 	  "transform":
 	  {
-		  "scale":5,
+		  "scale":0.1,
 		  "rotateZ":-90
 	  }
     },
@@ -134,7 +134,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Shark_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Shark_1.jpg"],
 	  "transform":
 	  {
-		  "scale":8,
+		  "scale":0.1,
 		  "rotateZ":90
 	  }
     },
@@ -144,7 +144,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Clownfish_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Clownfish_1.jpg"],
 	  "transform":
 	  {
-		  "scale":5,
+		  "scale":0.1,
 		  "rotateZ":90
 	  }
     }
