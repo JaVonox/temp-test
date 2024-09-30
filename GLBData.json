@@ -28,7 +28,11 @@
     "Bigben": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/BigbenCompressed.glb",
       "starttime": -1,
-	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Bigben.jpg"]
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Bigben.jpg"],
+	  "transform":
+	  {
+		  "scale":1.5
+	  }
     },
     "Cityscape": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/CityScapeRemappedCompressed.glb",
@@ -38,6 +42,10 @@
 	  {
 		"maskType":"sphere",
 		"maskRadius":300.0
+	  },
+	  "transform":
+	  {
+		  "locationZ":10
 	  }
     },
     "Closeup": {
@@ -52,27 +60,48 @@
     "Coins": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/CoinsCompressed.glb",
       "starttime": 3,
-	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Coins.jpg"]
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Coins.jpg"],
+	  "transform":
+	  {
+		  "scale":1.3
+	  }
     },
     "Devil": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/DevilCompressed.glb",
       "starttime": 0,
-	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"]
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"],
+	  "transform":
+	  {
+		  "scale":1.7
+	  }
     },
     "LondonEye": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/LondonEyeCompressed.glb",
       "starttime": 4,
-	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_LondonEye.jpg"]
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_LondonEye.jpg"],
+	  "transform":
+	  {
+		  "scale":1.3
+	  }
     },
     "OldTrafford": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/OldTraffordCompressed.glb",
       "starttime": -1,
-	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_OldTrafford.jpg"]
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_OldTrafford.jpg"],
+	  "transform":
+	  {
+		  "scale":1.3,
+		  "rotateZ":-90
+	  }
     },
     "Trophy": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/TrophyCompressed.glb",
       "starttime": -1,
-	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Trophy.jpg"]
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Trophy.jpg"],
+	  "transform":
+	  {
+		  "scale":1.5
+	  }
     },
 	"Penguins": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/PenguinsCompressed.glb",
@@ -80,7 +109,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Penguins_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Penguins_1.jpg"],
 	  "transform":
 	  {
-		  "scale":5,
+		  "scale":7,
 		  "rotateZ":90
 	  }
     },
@@ -91,7 +120,7 @@
 	  "transform":
 	  {
 		  "scale":5,
-		  "rotateZ":90
+		  "rotateZ":-90
 	  }
     },
 	"Shark": {
@@ -100,7 +129,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Shark_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Shark_1.jpg"],
 	  "transform":
 	  {
-		  "scale":5,
+		  "scale":8,
 		  "rotateZ":90
 	  }
     },
