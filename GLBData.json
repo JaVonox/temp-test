@@ -29,6 +29,10 @@
       "url": "https://github.com/JaVonox/temp-test/raw/main/BigbenCompressed.glb",
       "starttime": -1,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Bigben.jpg"],
+	  "audio":
+	  {
+		"London_BigBen":1
+	  },
 	  "transform":
 	  {
 		  "scale":1.5
@@ -42,6 +46,10 @@
 	  {
 		"maskType":"sphere",
 		"maskRadius":300.0
+	  },
+	  "audio":
+	  {
+		"London_Skyline":1
 	  },
 	  "transform":
 	  {
@@ -57,15 +65,36 @@
 	  {
 		"maskType":"plane"
 	  },
+	  "audio":
+	  {
+		"London_Closeup":1
+	  },
 	  "transform":
 	  {
 		  "locationZ":150
+	  }
+    },
+	"LondonEye": {
+      "url": "https://github.com/JaVonox/temp-test/raw/main/LondonEyeCompressed.glb",
+      "starttime": 4,
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_LondonEye.jpg"],
+	  "audio":
+	  {
+		"London_LondonEye":1
+	  },
+	  "transform":
+	  {
+		  "scale":1.3
 	  }
     },
     "Coins": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/CoinsCompressed.glb",
       "starttime": 3,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Coins.jpg"],
+	  "audio":
+	  {
+		"Manchester_Coins":1
+	  },
 	  "transform":
 	  {
 		  "scale":1.3
@@ -75,24 +104,23 @@
       "url": "https://github.com/JaVonox/temp-test/raw/main/DevilCompressed.glb",
       "starttime": 0,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"],
+	  "audio":
+	  {
+		"Manchester_Devil":1
+	  },
 	  "transform":
 	  {
 		  "scale":1.7
-	  }
-    },
-    "LondonEye": {
-      "url": "https://github.com/JaVonox/temp-test/raw/main/LondonEyeCompressed.glb",
-      "starttime": 4,
-	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_LondonEye.jpg"],
-	  "transform":
-	  {
-		  "scale":1.3
 	  }
     },
     "OldTrafford": {
       "url": "https://github.com/JaVonox/temp-test/raw/main/OldTraffordCompressed.glb",
       "starttime": -1,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_OldTrafford.jpg"],
+	  "audio":
+	  {
+		"Manchester_Stadium":1
+	  },
 	  "transform":
 	  {
 		  "scale":1.3,
@@ -103,6 +131,10 @@
       "url": "https://github.com/JaVonox/temp-test/raw/main/TrophyCompressed.glb",
       "starttime": -1,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Trophy.jpg"],
+	  "audio":
+	  {
+		"Manchester_Trophy":1
+	  },
 	  "transform":
 	  {
 		  "scale":1.5
@@ -112,6 +144,10 @@
       "url": "https://github.com/JaVonox/temp-test/raw/main/PenguinsCompressed.glb",
       "starttime": 4,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Penguins_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Penguins_1.jpg"],
+	  "audio":
+	  {
+		"Sealife_Music":1
+	  },
 	  "transform":
 	  {
 		  "scale":7,
@@ -122,6 +158,11 @@
       "url": "https://github.com/JaVonox/temp-test/raw/main/TurtleCompressed.glb",
       "starttime": 11.8,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Turtle_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Turtle_1.jpg"],
+	  "audio":
+	  {
+		"Sealife_Music":1,
+		"Sealife_Bubbles":1
+	  },
 	  "transform":
 	  {
 		  "scale":5,
@@ -132,6 +173,10 @@
       "url": "https://github.com/JaVonox/temp-test/raw/main/SharksCompressed.glb",
       "starttime": 5.6,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Shark_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Shark_1.jpg"],
+	  "audio":
+	  {
+		"Sealife_Music":1
+	  },
 	  "transform":
 	  {
 		  "scale":8,
@@ -142,11 +187,28 @@
       "url": "https://github.com/JaVonox/temp-test/raw/main/ClownfishCompressed.glb",
       "starttime": 2.35,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Clownfish_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Clownfish_1.jpg"],
+	  "audio":
+	  {
+		"Sealife_Music":1,
+		"Sealife_Bubbles":1
+	  },
 	  "transform":
 	  {
 		  "scale":5,
 		  "rotateZ":90
 	  }
     }
+  },
+  "Audio":{
+	  "London_BigBen":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_BigBen.mp3",
+	  "London_Closeup":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_Closeup.mp3",
+	  "London_LondonEye":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_LondonEye.mp3",
+	  "London_Skyline":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_Skyline.mp3",
+	  "Manchester_Coins":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Coins.mp3",
+	  "Manchester_Devil":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Devil.mp3",
+	  "Manchester_Stadium":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Stadium.mp3",
+	  "Manchester_Trophy":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Trophy.mp3",
+	  "Sealife_Music":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Music.mp3",
+	  "Sealife_Bubbles":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Bubbles.mp3"
   }
 }
