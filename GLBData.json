@@ -5,6 +5,7 @@
 		"description":"Discover the beauty of the seas with this pack of four notes. Includes stunning models of green sea turtles, clown fish, blacktip reef sharks and gentoo penguins",
 		"shoplink":"https://www.nationalnotes.co.uk/shop/sealife",
 		"filecontents":["Clownfish","Shark","Turtle","Penguins"],
+		"audio":["Sealife_Music","Sealife_Bubbles"],
 		"majorversion":0,
 		"minorversion":1
 		},
@@ -13,6 +14,7 @@
 		"description":"Show your support to your favourite team with this pack of four notes.",
 		"shoplink":"https://www.nationalnotes.co.uk/shop/manchester-united-football-club",
 		"filecontents":["Devil","Trophy","Coins","OldTrafford"],
+		"audio":["Manchester_Coins","Manchester_Devil","Manchester_Devil","Manchester_Stadium","Manchester_Trophy"],
 		"majorversion":0,
 		"minorversion":1
 	},
@@ -20,6 +22,7 @@
 		"realname":"Sights of London",
 		"description":"Explore the bustling london city from your own home with this pack of four notes.",
 		"filecontents":["Bigben","Cityscape","Closeup","LondonEye"],
+		"audio":["London_BigBen","London_Closeup","London_LondonEye","London_Skyline"],
 		"majorversion":0,
 		"minorversion":1
 	}
