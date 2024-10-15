@@ -124,6 +124,10 @@
 	  {
 		"Manchester_Stadium":1
 	  },
+	  "meshmaterials":
+	  {
+		"VideoPlane":"OldTrafford_Video"
+	  },
 	  "transform":
 	  {
 		  "scale":1.3,
@@ -213,5 +217,8 @@
 	  "Manchester_Trophy":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Trophy.mp3",
 	  "Sealife_Music":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Music.mp3",
 	  "Sealife_Bubbles":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Bubbles.mp3"
+  }
+  "MaterialOverrides":{
+	  "OldTrafford_Video":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Videos/Top_View_Of_A_Soccer_Match_fhd.bk2"
   }
 }
