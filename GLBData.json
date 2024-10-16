@@ -220,6 +220,11 @@
 	  "audio":
 	  {
 		"Sealife_Bubbles":1
+	  },
+	  "transform":
+	  {
+		  "scale":20,
+		  "rotateZ":90
 	  }
     },
 	"DevTest2": {
@@ -233,7 +238,7 @@
     },
 	"DevTest3": {
       "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/InterpolationTest/glTF-Binary/InterpolationTest.glb",
-      "starttime": 2,
+      "starttime": 0.5,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"],
 	  "audio":
 	  {
