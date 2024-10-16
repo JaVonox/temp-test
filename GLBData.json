@@ -32,7 +32,7 @@
 		"filecontents":["DevTest1","DevTest2","DevTest3"],
 		"audio":["Sealife_Bubbles","Manchester_Stadium","London_BigBen"],
 		"majorversion":1,
-		"minorversion":1
+		"minorversion":2
 	}
   },
   "GLBFiles": {
@@ -269,6 +269,6 @@
   },
   "MaterialOverrides":{
 	  "OldTrafford_Video":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Videos/Top_View_Of_A_Soccer_Match_fhd.bk2",
-	  "DevTest_Video":"https://example-files.online-convert.com/video/bk2/example.bk2"
+	  "DevTest_Video":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Videos/Planet.bk2"
   }
 }
