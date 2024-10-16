@@ -32,7 +32,7 @@
 		"filecontents":["DevTest1","DevTest2","DevTest3"],
 		"audio":["Sealife_Bubbles","Manchester_Stadium","London_BigBen"],
 		"majorversion":1,
-		"minorversion":0
+		"minorversion":1
 	}
   },
   "GLBFiles": {
@@ -221,6 +221,10 @@
 	  {
 		"Sealife_Bubbles":1
 	  },
+	  "meshmaterials":
+	  {
+		"Avocado":"DevTest_Video"
+	  },
 	  "transform":
 	  {
 		  "scale":20,
@@ -264,6 +268,7 @@
 	  "Sealife_Bubbles":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Bubbles.mp3"
   },
   "MaterialOverrides":{
-	  "OldTrafford_Video":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Videos/Top_View_Of_A_Soccer_Match_fhd.bk2"
+	  "OldTrafford_Video":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Videos/Top_View_Of_A_Soccer_Match_fhd.bk2",
+	  "DevTest_Video":"https://example-files.online-convert.com/video/bk2/example.bk2"
   }
 }
