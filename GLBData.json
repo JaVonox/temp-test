@@ -14,7 +14,7 @@
 		"description":"Show your support to your favourite team with this pack of four notes.",
 		"shoplink":"https://www.nationalnotes.co.uk/shop/manchester-united-football-club",
 		"filecontents":["Devil","Trophy","Coins","OldTrafford"],
-		"audio":["Manchester_Coins","Manchester_Devil","Manchester_Devil","Manchester_Stadium","Manchester_Trophy"],
+		"audio":["Manchester_Coins","Manchester_Devil","Manchester_Stadium","Manchester_Trophy"],
 		"majorversion":0,
 		"minorversion":1
 	},
@@ -23,6 +23,14 @@
 		"description":"Explore the bustling london city from your own home with this pack of four notes.",
 		"filecontents":["Bigben","Cityscape","Closeup","LondonEye"],
 		"audio":["London_BigBen","London_Closeup","London_LondonEye","London_Skyline"],
+		"majorversion":0,
+		"minorversion":1
+	},
+	"DevTest":{
+		"realname":"DevTest",
+		"description":"Explore the bustling london city from your own home with this pack of four notes.",
+		"filecontents":["DevTest1","DevTest2","DevTest3"],
+		"audio":["Sealife_Bubbles","Manchester_Stadium","London_BigBen"],
 		"majorversion":0,
 		"minorversion":1
 	}
@@ -202,6 +210,38 @@
 	  "transform":
 	  {
 		  "scale":5,
+		  "rotateZ":90
+	  }
+    },
+	"DevTest1": {
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/Avocado/glTF-Binary/Avocado.glb",
+      "starttime": -1,
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Bigben.jpg"],
+	  "audio":
+	  {
+		"Sealife_Bubbles":1
+	  }
+    },
+	"DevTest2": {
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/BoxAnimated/glTF-Binary/BoxAnimated.glb",
+      "starttime": -1,
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_OldTrafford.jpg"],
+	  "audio":
+	  {
+		"Manchester_Stadium":1
+	  }
+    },
+	"DevTest3": {
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/InterpolationTest/glTF-Binary/InterpolationTest.glb",
+      "starttime": 2,
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"],
+	  "audio":
+	  {
+		"Manchester_Stadium":1
+	  },
+	  "transform":
+	  {
+		  "scale":0.5,
 		  "rotateZ":90
 	  }
     }
