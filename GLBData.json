@@ -31,8 +31,8 @@
 		"description":"Explore the bustling london city from your own home with this pack of four notes.",
 		"filecontents":["DevTest1","DevTest2","DevTest3"],
 		"audio":["Sealife_Bubbles","Manchester_Stadium","London_BigBen"],
-		"majorversion":0,
-		"minorversion":1
+		"majorversion":1,
+		"minorversion":0
 	}
   },
   "GLBFiles": {
