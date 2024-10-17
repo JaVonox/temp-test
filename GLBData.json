@@ -29,9 +29,10 @@
 	"DevTest":{
 		"realname":"DevTest",
 		"description":"Explore the bustling london city from your own home with this pack of four notes.",
-		"filecontents":["DevTest1","DevTest2","DevTest3"],
+		"filecontents":["DevTest1","DevTest2","DevTest3","DevTest4"],
+		"audio":["Dev_Counting","Sealife_Bubbles"],
 		"majorversion":1,
-		"minorversion":3
+		"minorversion":4
 	}
   },
   "GLBFiles": {
@@ -220,6 +221,10 @@
 	  {
 		"Avocado":"DevTest_Video"
 	  },
+	  "audio":
+	  {
+		  "Dev_Counting":1
+	  },
 	  "transform":
 	  {
 		  "scale":20,
@@ -229,16 +234,34 @@
 	"DevTest2": {
       "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/BoxAnimated/glTF-Binary/BoxAnimated.glb",
       "starttime": -1,
+	  "audio":
+	  {
+		  "Dev_Counting":1
+	  },
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_OldTrafford.jpg"]
     },
 	"DevTest3": {
       "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/InterpolationTest/glTF-Binary/InterpolationTest.glb",
       "starttime": 0.5,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"],
+	  "audio":
+	  {
+		  "Dev_Counting":1,
+		  "Sealife_Bubbles":1
+	  },
 	  "transform":
 	  {
 		  "scale":0.5,
 		  "rotateZ":90
+	  }
+    },
+	"DevTest4": {
+      "url": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/refs/heads/main/2.0/Duck/glTF-Binary/Duck.glb",
+      "starttime": 0.5,
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Coins.jpg"],
+	  "audio":
+	  {
+		  "Dev_Counting":0.5
 	  }
     }
   },
@@ -252,7 +275,8 @@
 	  "Manchester_Stadium":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Stadium.mp3",
 	  "Manchester_Trophy":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Trophy.mp3",
 	  "Sealife_Music":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Music.mp3",
-	  "Sealife_Bubbles":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Bubbles.mp3"
+	  "Sealife_Bubbles":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Bubbles.mp3",
+	  "Dev_Counting":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Dev_Counting.mp3"
   },
   "MaterialOverrides":{
 	  "OldTrafford_Video":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Videos/Top_View_Of_A_Soccer_Match_fhd.bk2",
