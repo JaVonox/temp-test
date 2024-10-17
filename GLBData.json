@@ -32,7 +32,7 @@
 		"filecontents":["DevTest1","DevTest2","DevTest3"],
 		"audio":["Sealife_Bubbles","Manchester_Stadium","London_BigBen"],
 		"majorversion":1,
-		"minorversion":2
+		"minorversion":3
 	}
   },
   "GLBFiles": {
@@ -217,10 +217,6 @@
       "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/Avocado/glTF-Binary/Avocado.glb",
       "starttime": -1,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Bigben.jpg"],
-	  "audio":
-	  {
-		"Sealife_Bubbles":1
-	  },
 	  "meshmaterials":
 	  {
 		"Avocado":"DevTest_Video"
