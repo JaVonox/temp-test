@@ -30,7 +30,6 @@
 		"realname":"DevTest",
 		"description":"Explore the bustling london city from your own home with this pack of four notes.",
 		"filecontents":["DevTest1","DevTest2","DevTest3"],
-		"audio":["Sealife_Bubbles","Manchester_Stadium","London_BigBen"],
 		"majorversion":1,
 		"minorversion":3
 	}
@@ -230,20 +229,12 @@
 	"DevTest2": {
       "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/BoxAnimated/glTF-Binary/BoxAnimated.glb",
       "starttime": -1,
-	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_OldTrafford.jpg"],
-	  "audio":
-	  {
-		"Manchester_Stadium":1
-	  }
+	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_OldTrafford.jpg"]
     },
 	"DevTest3": {
       "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/InterpolationTest/glTF-Binary/InterpolationTest.glb",
       "starttime": 0.5,
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"],
-	  "audio":
-	  {
-		"Manchester_Stadium":1
-	  },
 	  "transform":
 	  {
 		  "scale":0.5,
