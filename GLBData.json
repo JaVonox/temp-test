@@ -30,9 +30,9 @@
 		"realname":"DevTest",
 		"description":"Explore the bustling london city from your own home with this pack of four notes.",
 		"filecontents":["DevTest1","DevTest2","DevTest3","DevTest4"],
-		"audio":["Dev_Counting","Sealife_Bubbles"],
+		"audio":["Dev_Counting","Sealife_Bubbles","Dev_ReverbCounting"],
 		"majorversion":1,
-		"minorversion":4
+		"minorversion":5
 	}
   },
   "GLBFiles": {
@@ -42,7 +42,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Bigben.jpg"],
 	  "audio":
 	  {
-		"London_BigBen":{"volume":1,"loop":false}
+		"London_BigBen":1
 	  },
 	  "transform":
 	  {
@@ -60,7 +60,7 @@
 	  },
 	  "audio":
 	  {
-		"London_Skyline":{"volume":1,"loop":true}
+		"London_Skyline":1
 	  },
 	  "transform":
 	  {
@@ -78,7 +78,7 @@
 	  },
 	  "audio":
 	  {
-		"London_Closeup":{"volume":1,"loop":true}
+		"London_Closeup":1
 	  },
 	  "transform":
 	  {
@@ -91,7 +91,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_LondonEye.jpg"],
 	  "audio":
 	  {
-		"London_LondonEye":{"volume":1,"loop":true}
+		"London_LondonEye":1
 	  },
 	  "transform":
 	  {
@@ -104,7 +104,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Coins.jpg"],
 	  "audio":
 	  {
-		"Manchester_Coins":{"volume":1,"loop":true}
+		"Manchester_Coins":1
 	  },
 	  "transform":
 	  {
@@ -117,7 +117,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"],
 	  "audio":
 	  {
-		"Manchester_Devil":{"volume":1,"loop":false,"maintainstate":true}
+		"Manchester_Devil":1
 	  },
 	  "transform":
 	  {
@@ -130,7 +130,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_OldTrafford.jpg"],
 	  "audio":
 	  {
-		"Manchester_Stadium":{"volume":1,"loop":true}
+		"Manchester_Stadium":1
 	  },
 	  "meshmaterials":
 	  {
@@ -148,7 +148,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Trophy.jpg"],
 	  "audio":
 	  {
-		"Manchester_Trophy":{"volume":1,"loop":true}
+		"Manchester_Trophy":1
 	  },
 	  "transform":
 	  {
@@ -161,7 +161,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Penguins_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Penguins_1.jpg"],
 	  "audio":
 	  {
-		"Sealife_Music":{"volume":1,"loop":true}
+		"Sealife_Music":1
 	  },
 	  "transform":
 	  {
@@ -175,8 +175,8 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Turtle_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Turtle_1.jpg"],
 	  "audio":
 	  {
-		"Sealife_Music":{"volume":1,"loop":true},
-		"Sealife_Bubbles":{"volume":1,"loop":true}
+		"Sealife_Music":1,
+		"Sealife_Bubbles":1
 	  },
 	  "transform":
 	  {
@@ -190,7 +190,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Shark_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Shark_1.jpg"],
 	  "audio":
 	  {
-		"Sealife_Music":{"volume":1,"loop":true}
+		"Sealife_Music":1
 	  },
 	  "transform":
 	  {
@@ -204,8 +204,8 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Clownfish_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Clownfish_1.jpg"],
 	  "audio":
 	  {
-		"Sealife_Music":{"volume":1,"loop":true},
-		"Sealife_Bubbles":{"volume":1,"loop":true}
+		"Sealife_Music":1,
+		"Sealife_Bubbles":1
 	  },
 	  "transform":
 	  {
@@ -223,7 +223,7 @@
 	  },
 	  "audio":
 	  {
-		  "Dev_Counting":{"volume":1,"loop":false,"maintainstate":true}
+		  "Dev_Counting":1
 	  },
 	  "transform":
 	  {
@@ -236,7 +236,7 @@
       "starttime": -1,
 	  "audio":
 	  {
-		  "Dev_Counting":{"volume":1,"loop":true}
+		  "Dev_Counting":1
 	  },
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_OldTrafford.jpg"]
     },
@@ -246,8 +246,8 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"],
 	  "audio":
 	  {
-		  "Dev_Counting":{"volume":1,"loop":true,"maintainstate":true},
-		  "Sealife_Bubbles":{"volume":1,"loop":true}
+		  "Dev_ReverbCounting":1,
+		  "Sealife_Bubbles":1
 	  },
 	  "transform":
 	  {
@@ -261,22 +261,23 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Coins.jpg"],
 	  "audio":
 	  {
-		  "Dev_Counting":{"volume":0.5,"loop":false,"maintainstate":true}
+		  "Dev_Counting":0.5
 	  }
     }
   },
   "Audio":{
-	  "London_BigBen":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_BigBen.mp3",
-	  "London_Closeup":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_Closeup.mp3",
-	  "London_LondonEye":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_LondonEye.mp3",
-	  "London_Skyline":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_Skyline.mp3",
-	  "Manchester_Coins":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Coins.mp3",
-	  "Manchester_Devil":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Devil.mp3",
-	  "Manchester_Stadium":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Stadium.mp3",
-	  "Manchester_Trophy":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Trophy.mp3",
-	  "Sealife_Music":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Music.mp3",
-	  "Sealife_Bubbles":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Bubbles.mp3",
-	  "Dev_Counting":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Dev_Counting.mp3"
+	  "London_BigBen":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_BigBen.mp3","loops":false,"keepstatewhilestopped":false},
+	  "London_Closeup":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_Closeup.mp3","loops":true},
+	  "London_LondonEye":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_LondonEye.mp3","loops":true},
+	  "London_Skyline":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/London_Skyline.mp3","loops":true},
+	  "Manchester_Coins":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Coins.mp3","loops":true},
+	  "Manchester_Devil":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Devil.mp3","loops":false,"keepstatewhilestopped":true},
+	  "Manchester_Stadium":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Stadium.mp3","loops":true},
+	  "Manchester_Trophy":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Manchester_Trophy.mp3","loops":true},
+	  "Sealife_Music":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Music.mp3","loops":true},
+	  "Sealife_Bubbles":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Bubbles.mp3","loops":true},
+	  "Dev_Counting":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Dev_Counting.mp3","loops":true,"keepstatewhilestopped":true},
+	  "Dev_ReverbCounting":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Dev_ReverbCounting.mp3","loops":false,"keepstatewhilestopped":false}
   },
   "MaterialOverrides":{
 	  "OldTrafford_Video":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Videos/Top_View_Of_A_Soccer_Match_fhd.bk2",
