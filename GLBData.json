@@ -223,7 +223,7 @@
 	  },
 	  "audio":
 	  {
-		  "Dev_Counting":{"volume":1,"loop":true}
+		  "Dev_Counting":{"volume":1,"loop":false,"maintainstate":true}
 	  },
 	  "transform":
 	  {
@@ -261,7 +261,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Coins.jpg"],
 	  "audio":
 	  {
-		  "Dev_Counting":{"volume":0.5,"loop":true}
+		  "Dev_Counting":{"volume":0.5,"loop":false,"maintainstate":true}
 	  }
     }
   },
