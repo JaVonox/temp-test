@@ -246,7 +246,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"],
 	  "audio":
 	  {
-		  "Dev_Counting":{"volume":1,"loop":true},
+		  "Dev_Counting":{"volume":1,"loop":true,"maintainstate":true},
 		  "Sealife_Bubbles":{"volume":1,"loop":true}
 	  },
 	  "transform":
