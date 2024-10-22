@@ -42,7 +42,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Bigben.jpg"],
 	  "audio":
 	  {
-		"London_BigBen":1
+		"London_BigBen":{"volume":1,"loop":false}
 	  },
 	  "transform":
 	  {
@@ -60,7 +60,7 @@
 	  },
 	  "audio":
 	  {
-		"London_Skyline":1
+		"London_Skyline":{"volume":1,"loop":true}
 	  },
 	  "transform":
 	  {
@@ -78,7 +78,7 @@
 	  },
 	  "audio":
 	  {
-		"London_Closeup":1
+		"London_Closeup":{"volume":1,"loop":true}
 	  },
 	  "transform":
 	  {
@@ -91,7 +91,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_LondonEye.jpg"],
 	  "audio":
 	  {
-		"London_LondonEye":1
+		"London_LondonEye":{"volume":1,"loop":true}
 	  },
 	  "transform":
 	  {
@@ -104,7 +104,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Coins.jpg"],
 	  "audio":
 	  {
-		"Manchester_Coins":1
+		"Manchester_Coins":{"volume":1,"loop":true}
 	  },
 	  "transform":
 	  {
@@ -117,7 +117,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"],
 	  "audio":
 	  {
-		"Manchester_Devil":1
+		"Manchester_Devil":{"volume":1,"loop":false,"maintainstate":true}
 	  },
 	  "transform":
 	  {
@@ -130,7 +130,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_OldTrafford.jpg"],
 	  "audio":
 	  {
-		"Manchester_Stadium":1
+		"Manchester_Stadium":{"volume":1,"loop":true}
 	  },
 	  "meshmaterials":
 	  {
@@ -148,7 +148,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Trophy.jpg"],
 	  "audio":
 	  {
-		"Manchester_Trophy":1
+		"Manchester_Trophy":{"volume":1,"loop":true}
 	  },
 	  "transform":
 	  {
@@ -161,7 +161,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Penguins_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Penguins_1.jpg"],
 	  "audio":
 	  {
-		"Sealife_Music":1
+		"Sealife_Music":{"volume":1,"loop":true}
 	  },
 	  "transform":
 	  {
@@ -175,8 +175,8 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Turtle_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Turtle_1.jpg"],
 	  "audio":
 	  {
-		"Sealife_Music":1,
-		"Sealife_Bubbles":1
+		"Sealife_Music":{"volume":1,"loop":true},
+		"Sealife_Bubbles":{"volume":1,"loop":true}
 	  },
 	  "transform":
 	  {
@@ -190,7 +190,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Shark_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Shark_1.jpg"],
 	  "audio":
 	  {
-		"Sealife_Music":1
+		"Sealife_Music":{"volume":1,"loop":true}
 	  },
 	  "transform":
 	  {
@@ -204,8 +204,8 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Clownfish_0.jpg","https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Clownfish_1.jpg"],
 	  "audio":
 	  {
-		"Sealife_Music":1,
-		"Sealife_Bubbles":1
+		"Sealife_Music":{"volume":1,"loop":true},
+		"Sealife_Bubbles":{"volume":1,"loop":true}
 	  },
 	  "transform":
 	  {
@@ -223,7 +223,7 @@
 	  },
 	  "audio":
 	  {
-		  "Dev_Counting":1
+		  "Dev_Counting":{"volume":1,"loop":true}
 	  },
 	  "transform":
 	  {
@@ -236,7 +236,7 @@
       "starttime": -1,
 	  "audio":
 	  {
-		  "Dev_Counting":1
+		  "Dev_Counting":{"volume":1,"loop":true}
 	  },
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_OldTrafford.jpg"]
     },
@@ -246,8 +246,8 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Devil.jpg"],
 	  "audio":
 	  {
-		  "Dev_Counting":1,
-		  "Sealife_Bubbles":1
+		  "Dev_Counting":{"volume":1,"loop":true},
+		  "Sealife_Bubbles":{"volume":1,"loop":true}
 	  },
 	  "transform":
 	  {
@@ -261,7 +261,7 @@
 	  "trackerurls":["https://github.com/JaVonox/temp-test/raw/refs/heads/main/Notes/NOTE_Coins.jpg"],
 	  "audio":
 	  {
-		  "Dev_Counting":0.5
+		  "Dev_Counting":{"volume":0.5,"loop":true}
 	  }
     }
   },
