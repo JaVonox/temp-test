@@ -277,7 +277,7 @@
 	  "Sealife_Music":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Music.mp3","loops":true},
 	  "Sealife_Bubbles":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Sealife_Bubbles.mp3","loops":true},
 	  "Dev_Counting":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Dev_Counting.mp3","loops":true,"keepstatewhilestopped":true},
-	  "Dev_ReverbCounting":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Dev_ReverbCounting.mp3","loops":true,"keepstatewhilestopped":false}
+	  "Dev_ReverbCounting":{"url":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Audio/Dev_ReverbCounting.mp3","loops":false,"keepstatewhilestopped":false}
   },
   "MaterialOverrides":{
 	  "OldTrafford_Video":"https://github.com/JaVonox/temp-test/raw/refs/heads/main/Videos/Top_View_Of_A_Soccer_Match_fhd.bk2",
